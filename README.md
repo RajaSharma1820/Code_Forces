@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 10 |
+| 12 | 10 |
 
 ---
 
@@ -16,12 +16,12 @@
 - [brute force](#brute-force) (1)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
-- [greedy](#greedy) (2)
+- [greedy](#greedy) (3)
 - [implementation](#implementation) (9)
-- [math](#math) (1)
+- [math](#math) (2)
 - [sortings](#sortings) (1)
 - [strings](#strings) (2)
-- [two pointers](#two-pointers) (6)
+- [two pointers](#two-pointers) (7)
 
 ---
 
@@ -55,6 +55,7 @@
 |---|---------|------------|----------|
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
+| 1843B | [Long Long](https://codeforces.com/contest/1843/problem/B) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1843/B%20-%20Long%20Long/solution.java) |
 
 ### implementation
 
@@ -75,6 +76,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 1843B | [Long Long](https://codeforces.com/contest/1843/problem/B) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1843/B%20-%20Long%20Long/solution.java) |
 
 ### sortings
 
@@ -99,6 +101,7 @@
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.java) |
 | 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
+| 1843B | [Long Long](https://codeforces.com/contest/1843/problem/B) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1843/B%20-%20Long%20Long/solution.java) |
 
 ---
 
