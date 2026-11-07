@@ -6,23 +6,23 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 11 |
+| 17 | 11 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (2)
+- [brute force](#brute-force) (3)
 - [combinatorics](#combinatorics) (1)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (11)
+- [implementation](#implementation) (12)
 - [math](#math) (3)
 - [sortings](#sortings) (2)
-- [strings](#strings) (2)
-- [two pointers](#two-pointers) (10)
+- [strings](#strings) (3)
+- [two pointers](#two-pointers) (12)
 
 ---
 
@@ -37,6 +37,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 1251A | [Broken Keyboard](https://codeforces.com/contest/1251/problem/A) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1251/A%20-%20Broken%20Keyboard/solution.java) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1689/A%20-%20Lex%20String/solution.java) |
 
 ### combinatorics
@@ -79,6 +80,7 @@
 | 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.java) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1689/A%20-%20Lex%20String/solution.java) |
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.java) |
+| 1760D | [Challenging Valleys](https://codeforces.com/contest/1760/problem/D) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1760/D%20-%20Challenging%20Valleys/solution.java) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.java) |
 | 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.java) |
 
@@ -102,6 +104,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
+| 1251A | [Broken Keyboard](https://codeforces.com/contest/1251/problem/A) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1251/A%20-%20Broken%20Keyboard/solution.java) |
 | 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.java) |
 
 ### two pointers
@@ -110,9 +113,11 @@
 |---|---------|------------|----------|
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 961B | [Lecture Sleep](https://codeforces.com/contest/961/problem/B) | 1200 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/961/B%20-%20Lecture%20Sleep/solution.java) |
+| 1251A | [Broken Keyboard](https://codeforces.com/contest/1251/problem/A) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1251/A%20-%20Broken%20Keyboard/solution.java) |
 | 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.java) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1689/A%20-%20Lex%20String/solution.java) |
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.java) |
+| 1760D | [Challenging Valleys](https://codeforces.com/contest/1760/problem/D) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1760/D%20-%20Challenging%20Valleys/solution.java) |
 | 1791C | [Prepend and Append](https://codeforces.com/contest/1791/problem/C) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1791/C%20-%20Prepend%20and%20Append/solution.java) |
 | 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.java) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.java) |
