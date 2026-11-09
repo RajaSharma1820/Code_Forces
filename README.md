@@ -6,23 +6,24 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 11 |
+| 18 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
+- [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (3)
 - [combinatorics](#combinatorics) (1)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
-- [greedy](#greedy) (4)
+- [greedy](#greedy) (5)
 - [implementation](#implementation) (12)
 - [math](#math) (3)
 - [sortings](#sortings) (2)
 - [strings](#strings) (3)
-- [two pointers](#two-pointers) (12)
+- [two pointers](#two-pointers) (13)
 
 ---
 
@@ -31,6 +32,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1847B | [Hamon Odyssey](https://codeforces.com/contest/1847/problem/B) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1847/B%20-%20Hamon%20Odyssey/solution.java) |
 
 ### brute force
 
@@ -66,6 +73,7 @@
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1689/A%20-%20Lex%20String/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 | 1843B | [Long Long](https://codeforces.com/contest/1843/problem/B) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1843/B%20-%20Long%20Long/solution.java) |
+| 1847B | [Hamon Odyssey](https://codeforces.com/contest/1847/problem/B) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1847/B%20-%20Hamon%20Odyssey/solution.java) |
 
 ### implementation
 
@@ -123,6 +131,7 @@
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 | 1843B | [Long Long](https://codeforces.com/contest/1843/problem/B) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1843/B%20-%20Long%20Long/solution.java) |
+| 1847B | [Hamon Odyssey](https://codeforces.com/contest/1847/problem/B) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1847/B%20-%20Hamon%20Odyssey/solution.java) |
 
 ---
 
