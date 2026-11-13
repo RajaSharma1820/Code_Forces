@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 12 |
+| 20 | 12 |
 
 ---
 
@@ -16,12 +16,12 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (3)
 - [combinatorics](#combinatorics) (1)
-- [data structures](#data-structures) (1)
+- [data structures](#data-structures) (3)
 - [dp](#dp) (1)
-- [greedy](#greedy) (5)
+- [greedy](#greedy) (7)
 - [implementation](#implementation) (12)
-- [math](#math) (3)
-- [sortings](#sortings) (2)
+- [math](#math) (4)
+- [sortings](#sortings) (4)
 - [strings](#strings) (3)
 - [two pointers](#two-pointers) (13)
 
@@ -58,6 +58,8 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 961B | [Lecture Sleep](https://codeforces.com/contest/961/problem/B) | 1200 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/961/B%20-%20Lecture%20Sleep/solution.java) |
+| 1165B | [Polycarp Training](https://codeforces.com/contest/1165/problem/B) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1165/B%20-%20Polycarp%20Training/solution.java) |
+| 1622B | [Berland Music](https://codeforces.com/contest/1622/problem/B) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1622/B%20-%20Berland%20Music/solution.java) |
 
 ### dp
 
@@ -70,6 +72,8 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
+| 1165B | [Polycarp Training](https://codeforces.com/contest/1165/problem/B) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1165/B%20-%20Polycarp%20Training/solution.java) |
+| 1622B | [Berland Music](https://codeforces.com/contest/1622/problem/B) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1622/B%20-%20Berland%20Music/solution.java) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1689/A%20-%20Lex%20String/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 | 1843B | [Long Long](https://codeforces.com/contest/1843/problem/B) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1843/B%20-%20Long%20Long/solution.java) |
@@ -97,6 +101,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
+| 1622B | [Berland Music](https://codeforces.com/contest/1622/problem/B) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1622/B%20-%20Berland%20Music/solution.java) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.java) |
 | 1843B | [Long Long](https://codeforces.com/contest/1843/problem/B) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1843/B%20-%20Long%20Long/solution.java) |
 
@@ -104,6 +109,8 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1165B | [Polycarp Training](https://codeforces.com/contest/1165/problem/B) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1165/B%20-%20Polycarp%20Training/solution.java) |
+| 1622B | [Berland Music](https://codeforces.com/contest/1622/problem/B) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1622/B%20-%20Berland%20Music/solution.java) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1689/A%20-%20Lex%20String/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 
