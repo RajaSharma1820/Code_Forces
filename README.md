@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 20 | 12 |
+| 21 | 12 |
 
 ---
 
@@ -18,11 +18,11 @@
 - [combinatorics](#combinatorics) (1)
 - [data structures](#data-structures) (3)
 - [dp](#dp) (1)
-- [greedy](#greedy) (7)
-- [implementation](#implementation) (12)
+- [greedy](#greedy) (8)
+- [implementation](#implementation) (13)
 - [math](#math) (4)
-- [sortings](#sortings) (4)
-- [strings](#strings) (3)
+- [sortings](#sortings) (5)
+- [strings](#strings) (4)
 - [two pointers](#two-pointers) (13)
 
 ---
@@ -71,6 +71,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 1165B | [Polycarp Training](https://codeforces.com/contest/1165/problem/B) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1165/B%20-%20Polycarp%20Training/solution.java) |
 | 1622B | [Berland Music](https://codeforces.com/contest/1622/problem/B) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1622/B%20-%20Berland%20Music/solution.java) |
@@ -87,6 +88,7 @@
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.java) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 961B | [Lecture Sleep](https://codeforces.com/contest/961/problem/B) | 1200 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/961/B%20-%20Lecture%20Sleep/solution.java) |
 | 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.java) |
@@ -109,6 +111,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 1165B | [Polycarp Training](https://codeforces.com/contest/1165/problem/B) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1165/B%20-%20Polycarp%20Training/solution.java) |
 | 1622B | [Berland Music](https://codeforces.com/contest/1622/problem/B) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1622/B%20-%20Berland%20Music/solution.java) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1689/A%20-%20Lex%20String/solution.java) |
@@ -119,6 +122,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 1251A | [Broken Keyboard](https://codeforces.com/contest/1251/problem/A) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1251/A%20-%20Broken%20Keyboard/solution.java) |
 | 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.java) |
 
