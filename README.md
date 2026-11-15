@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 21 | 12 |
+| 22 | 12 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [implementation](#implementation) (13)
 - [math](#math) (4)
 - [sortings](#sortings) (5)
-- [strings](#strings) (4)
+- [strings](#strings) (5)
 - [two pointers](#two-pointers) (13)
 
 ---
@@ -121,6 +121,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 1251A | [Broken Keyboard](https://codeforces.com/contest/1251/problem/A) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1251/A%20-%20Broken%20Keyboard/solution.java) |
