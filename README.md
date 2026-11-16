@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 26 | 12 |
+| 27 | 12 |
 
 ---
 
@@ -19,10 +19,10 @@
 - [data structures](#data-structures) (3)
 - [dp](#dp) (1)
 - [greedy](#greedy) (8)
-- [implementation](#implementation) (17)
+- [implementation](#implementation) (18)
 - [math](#math) (4)
 - [sortings](#sortings) (5)
-- [strings](#strings) (9)
+- [strings](#strings) (10)
 - [two pointers](#two-pointers) (13)
 
 ---
@@ -95,6 +95,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/520/A%20-%20Pangram/solution.java) |
+| 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.java) |
 | 961B | [Lecture Sleep](https://codeforces.com/contest/961/problem/B) | 1200 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/961/B%20-%20Lecture%20Sleep/solution.java) |
 | 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.java) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1689/A%20-%20Lex%20String/solution.java) |
@@ -133,6 +134,7 @@
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.java) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/520/A%20-%20Pangram/solution.java) |
+| 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.java) |
 | 1251A | [Broken Keyboard](https://codeforces.com/contest/1251/problem/A) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1251/A%20-%20Broken%20Keyboard/solution.java) |
 | 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.java) |
 
