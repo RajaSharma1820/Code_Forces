@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 12 |
+| 32 | 12 |
 
 ---
 
@@ -18,10 +18,10 @@
 - [combinatorics](#combinatorics) (1)
 - [data structures](#data-structures) (3)
 - [dp](#dp) (1)
-- [greedy](#greedy) (9)
+- [greedy](#greedy) (10)
 - [implementation](#implementation) (21)
 - [math](#math) (5)
-- [sortings](#sortings) (6)
+- [sortings](#sortings) (7)
 - [strings](#strings) (13)
 - [two pointers](#two-pointers) (13)
 
@@ -76,6 +76,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 1165B | [Polycarp Training](https://codeforces.com/contest/1165/problem/B) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1165/B%20-%20Polycarp%20Training/solution.java) |
+| 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.java) |
 | 1622B | [Berland Music](https://codeforces.com/contest/1622/problem/B) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1622/B%20-%20Berland%20Music/solution.java) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1689/A%20-%20Lex%20String/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
@@ -125,6 +126,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 | 1165B | [Polycarp Training](https://codeforces.com/contest/1165/problem/B) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1165/B%20-%20Polycarp%20Training/solution.java) |
+| 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.java) |
 | 1622B | [Berland Music](https://codeforces.com/contest/1622/problem/B) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1622/B%20-%20Berland%20Music/solution.java) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1689/A%20-%20Lex%20String/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
