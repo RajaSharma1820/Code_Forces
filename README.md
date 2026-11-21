@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 33 | 12 |
+| 34 | 12 |
 
 ---
 
@@ -19,8 +19,8 @@
 - [data structures](#data-structures) (3)
 - [dp](#dp) (1)
 - [greedy](#greedy) (10)
-- [implementation](#implementation) (22)
-- [math](#math) (6)
+- [implementation](#implementation) (23)
+- [math](#math) (7)
 - [sortings](#sortings) (7)
 - [strings](#strings) (13)
 - [two pointers](#two-pointers) (13)
@@ -103,6 +103,7 @@
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.java) |
 | 961B | [Lecture Sleep](https://codeforces.com/contest/961/problem/B) | 1200 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/961/B%20-%20Lecture%20Sleep/solution.java) |
+| 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.java) |
 | 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.java) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1689/A%20-%20Lex%20String/solution.java) |
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.java) |
@@ -117,6 +118,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/4/A%20-%20Watermelon/solution.java) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/200/B%20-%20Drinks/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
+| 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.java) |
 | 1622B | [Berland Music](https://codeforces.com/contest/1622/problem/B) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1622/B%20-%20Berland%20Music/solution.java) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.java) |
 | 1843B | [Long Long](https://codeforces.com/contest/1843/problem/B) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1843/B%20-%20Long%20Long/solution.java) |
