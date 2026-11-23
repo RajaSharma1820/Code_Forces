@@ -6,24 +6,25 @@
 
 | Total Problems | Topics |
 |---|---|
-| 36 | 12 |
+| 37 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
+- [binary search](#binary-search) (1)
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (4)
 - [combinatorics](#combinatorics) (1)
-- [data structures](#data-structures) (3)
+- [data structures](#data-structures) (4)
 - [dp](#dp) (1)
-- [greedy](#greedy) (11)
+- [greedy](#greedy) (12)
 - [implementation](#implementation) (23)
 - [math](#math) (8)
 - [sortings](#sortings) (7)
 - [strings](#strings) (13)
-- [two pointers](#two-pointers) (14)
+- [two pointers](#two-pointers) (15)
 
 ---
 
@@ -32,6 +33,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/158/A%20-%20Next%20Round/solution.java) |
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.java) |
 
 ### bitmasks
 
@@ -61,6 +68,7 @@
 | 961B | [Lecture Sleep](https://codeforces.com/contest/961/problem/B) | 1200 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/961/B%20-%20Lecture%20Sleep/solution.java) |
 | 1165B | [Polycarp Training](https://codeforces.com/contest/1165/problem/B) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1165/B%20-%20Polycarp%20Training/solution.java) |
 | 1622B | [Berland Music](https://codeforces.com/contest/1622/problem/B) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1622/B%20-%20Berland%20Music/solution.java) |
+| 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.java) |
 
 ### dp
 
@@ -79,6 +87,7 @@
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.java) |
 | 1547C | [Pair Programming](https://codeforces.com/contest/1547/problem/C) | 1100 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1547/C%20-%20Pair%20Programming/solution.java) |
 | 1622B | [Berland Music](https://codeforces.com/contest/1622/problem/B) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1622/B%20-%20Berland%20Music/solution.java) |
+| 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.java) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1689/A%20-%20Lex%20String/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |
 | 1843B | [Long Long](https://codeforces.com/contest/1843/problem/B) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1843/B%20-%20Long%20Long/solution.java) |
@@ -164,6 +173,7 @@
 | 1251A | [Broken Keyboard](https://codeforces.com/contest/1251/problem/A) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1251/A%20-%20Broken%20Keyboard/solution.java) |
 | 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.java) |
 | 1547C | [Pair Programming](https://codeforces.com/contest/1547/problem/C) | 1100 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1547/C%20-%20Pair%20Programming/solution.java) |
+| 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.java) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1689/A%20-%20Lex%20String/solution.java) |
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.java) |
 | 1760D | [Challenging Valleys](https://codeforces.com/contest/1760/problem/D) | 1000 | [Java 21](https://github.com/RajaSharma1820/Code_Forces/blob/HEAD/1760/D%20-%20Challenging%20Valleys/solution.java) |
